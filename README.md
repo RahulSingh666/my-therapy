@@ -69,15 +69,8 @@ vercel deploy
 ```
 
 Or push to GitHub and connect the repo at **vercel.com** — it auto-detects Next.js.
+# Install Vercel CLI (if not already installed)
+npm install -g vercel
 
----
-
-## ✅ Assignment Checklist
-
-- [x] Part 1: Homepage cloned (layout, spacing, responsiveness preserved)
-- [x] Part 2: Redesigned with new theme, copy from Dr. Maya Reynolds' profile, new images
-- [x] Part 3: New "Our Office" section added
-- [ ] Part 4: Loom video walkthrough (record after reviewing the site)
-=======
-# my-therapy
->>>>>>> 1646535dd3d8b53a251dbd7b495692ee8c31da40
+# Deploy
+vercel deploy 
